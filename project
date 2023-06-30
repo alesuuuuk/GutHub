@@ -1,1 +1,2 @@
-print("Hello World!")
+userNameSurname = input("Введіть своє ім'я і прізвище")
+corectUserName = print(userNameSurname.title())
